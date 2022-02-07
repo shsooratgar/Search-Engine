@@ -5,9 +5,9 @@ Project of Information Retrieval course
 First phase :
 implementing a boolean information retrieval system
 
-second phase :
+Second phase :
 implementing a ranking information retrieval system using vector space
 
-third phase :
+Third phase :
 adding categorisation and clustering
 
