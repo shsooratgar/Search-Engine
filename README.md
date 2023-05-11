@@ -16,9 +16,9 @@ preprocessings include:
 ## Second phase :
 implementing a ranking information retrieval system using vector space
 
-## Second phase :
+## Second phase (Extra Part) :
 used word embedding for vector space
 
 ## Third phase  :
-adding categorisation and clustering
+adding categorisation and clustering.It uses KNN to classify unlabeled data to one of the main categories of news(politics, health, sports, culture and economics)
 
