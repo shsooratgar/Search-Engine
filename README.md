@@ -9,10 +9,10 @@ This project is a multi-phase Information Retrieval (IR) system for Persian news
 
 ## 🗂 Project Structure
 
-- `main.py` – **Phase 1**: Implements Boolean IR using positional indexing for exact and phrase search.
-- `main (1).py` – **Phase 2**: Implements Ranked IR using TF-IDF weighting and Champion Lists for efficient scoring.
-- `main (2).py` – **Phase 2 Extended**: Compares Word2Vec models on embedding-based ranking.
-- **Phase 3**: (Not in a file, but implemented via provided code block) Implements:
+**Phase 1**: Implements Boolean IR using positional indexing for exact and phrase search.
+**Phase 2**: Implements Ranked IR using TF-IDF weighting and Champion Lists for efficient scoring.
+**Phase 2 Extended**: Compares Word2Vec models on embedding-based ranking.
+**Phase 3**:  Implements:
   - Document embedding using pretrained Word2Vec.
   - Clustering using vector similarity.
   - Query-based semantic retrieval within clusters.
